@@ -1,0 +1,1 @@
+{"main":"e-commerce-api.raml","name":"E-Commerce ","classifier":"raml","tags":[],"dependencies":[{"groupId":"org.mule.templates","assetId":"retail-order-types","version":"1.0.2"}],"groupId":"03702e4c-5c93-409c-a806-fd171e5e3dbc","assetId":"e-commerce","version":"1.0.0","apiVersion":"v2.0","originalFormatVersion":"1.0"}
